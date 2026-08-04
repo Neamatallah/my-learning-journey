@@ -1,2 +1,7 @@
-# my-learning-journey
-Tracking my learning progress and documenting each stage of my training.
+# My Learning Journey
+
+## Start Date 
+Aug 4, 2026
+
+## My Plan :
+
