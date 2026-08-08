@@ -67,8 +67,33 @@ Aug 4, 2026
  
 ## August 5, 2026
 
-*This section will be updated after completing today's learning.*
 
+- Configured Git by setting `user.name` and `user.email`.
+- Learned how Git configuration works using `git config` and the `--global` option.
+- Initialized a local Git repository using `git init`.
+- Practiced essential terminal commands (`pwd`, `ls`, `ls -a`, and `explorer .`).
+- Generated an SSH key pair, added the public key to GitHub, and verified the SSH connection.
+- Connected a local repository to GitHub using `git remote add origin`.
+- Understood the difference between HTTPS and SSH authentication.
+- Explored the commit history using `git log`.
+- Learned how branches work using `git branch`, `git branch -a`, and `git checkout`.
+- Understood the difference between `git push`, `git fetch`, and `git pull`.
+- Learned the concepts of Fork, Pull Request, Merge, Reset, and Revert.
+- Understood the difference between GUI, CLI, Terminal, Shell, and Bash.
+- Learned how commands are structured using Commands, Arguments, and Options.
+- Practiced navigation using paths and understood Absolute vs Relative Paths.
+- Learned how to use `man` pages for command documentation.
+
+## August 6, 2026
+
+* Started learning Networking fundamentals and how the Internet works.
+* Learned the Client-Server model and how devices communicate through Requests and Responses.
+* Understood the role of Domains, DNS, and Hosting in accessing websites.
+* Learned the difference between Internet and Web, and the basic structure of a URL.
+* Understood the process of loading a website: Domain → DNS → IP Address → Server → Response → Web Page.
+*  Learned the difference between Frontend, Backend, and Full-Stack Development.
+* Understood the responsibilities and workflow of each development path.
+* Learned how Frontend and Backend work together to build web applications.
 ---
 
 ## Current Status
