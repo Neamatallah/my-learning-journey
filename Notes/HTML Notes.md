@@ -1,4 +1,6 @@
+# HTML Notes
 
+A practical reference covering HTML fundamentals, document structure, text, links, images, lists, tables, semantic HTML, media, forms, accessibility, and common HTML concepts.
 
 ## 1. HTML Fundamentals
 
