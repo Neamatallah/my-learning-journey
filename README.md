@@ -131,8 +131,6 @@ Aug 4, 2026
 
 - **Complete CV Page**
   - Build a complete CV page using HTML only, without CSS.
-
-- **بوابة العبور**
   - Build a complete registration form including:
     - Name
     - Email
